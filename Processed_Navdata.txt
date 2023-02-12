@@ -1,0 +1,10 @@
+Time: 16
+Battery: 0
+Pitch: -1.227 Roll: 2.694 Yaw:72.017
+Altitude: 0
+Camera:
+Translation - x: -0.404041051864624 y:0.06507409363985062 z:0
+
+Velocity :0 0 0
+GPS Data 
+ Latitude :-1	Longitude: -1	Altitude: -1

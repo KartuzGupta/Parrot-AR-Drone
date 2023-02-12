@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "ar-drone-png-stream": "^2.0.0",
+    "ardrone-autonomy": "^0.1.2",
+    "fs": "^0.0.1-security",
+    "keypress": "^0.2.1"
+  }
+}
